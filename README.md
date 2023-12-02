@@ -1,10 +1,14 @@
 ### My Statistics 👋
+
 <a href="https://github.com/ray5273">
   <img align="center" src="https://github-readme-stats-git-master-ray5273s-projects.vercel.app/api?username=ray5273&theme=highcontrast&count_private=true" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats-git-master-ray5273s-projects.vercel.app/api/top-langs?username=ray5273&layout=compact&langs_count=8&count_private=true&theme=highcontrast&hide=assembly,html"/>
 </a>
+
+
+⚡ Excluding Private github statistics.
 
 
 <!--
