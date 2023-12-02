@@ -8,7 +8,7 @@
 </a>
 
 
-⚡ Excluding Private github statistics.
+⚡ Excluding Some of Private github statistics.
 
 
 <!--
